@@ -1,4 +1,8 @@
+# remove the default theme so our CSS takes effect
+# theme: jekyll-theme-minimal
 
+title: yi-8-88
+description: "Minimal dark personal site — social & photography"
 author: "James Seman"
 email: "Jamesseman855@gmail.com"
 url: "https://yi-8-88.github.io"
