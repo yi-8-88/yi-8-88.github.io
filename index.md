@@ -6,7 +6,7 @@ excerpt: Welcome to my personal site.
 
 <div class="content">
 
-# Hi — I'm James Seman
+
 
 - Email: [Jamesseman855@gmail.com](mailto:Jamesseman855@gmail.com)
 - View my [Social]({{ '/social' | relative_url }}) links.
