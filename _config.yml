@@ -1,2 +1,11 @@
-theme: jekyll-theme-minimal
-title: James Seman
+title: yi-8-88
+description: "Minimal dark personal site — social & photography"
+author: "James Seman"
+email: "Jamesseman855@gmail.com"
+url: "https://yi-8-88.github.io"
+baseurl: ""
+social:
+  github: "https://github.com/yi-8-88"
+  twitter: ""
+  instagram: ""
+  linkedin: ""
